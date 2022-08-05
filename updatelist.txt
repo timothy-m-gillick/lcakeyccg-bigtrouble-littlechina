@@ -1,5 +1,5 @@
 BigTroubleinLittleChina	08-03-22
 plugins/BigTroubleinLittleChina/plugininfo.txt	https://github.com/timothy-m-gillick/lcakeyccg-bigtrouble-littlechina/raw/main/plugininfo.txt	158088
-plugins/Amber/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lcakeyccg-bigtrouble-littlechina/raw/main/cardback.jpg	636053
+plugins/BigTroubleinLittleChina/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lcakeyccg-bigtrouble-littlechina/raw/main/cardback.jpg	241092
 CardGeneralURLs:		
 https://drive.google.com/drive/folders/1gi8YAOaaIMO7kXUmakeQ0_UkzlQpZ0oj
